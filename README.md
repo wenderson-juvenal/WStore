@@ -1,0 +1,2 @@
+# WStore
+loja 
